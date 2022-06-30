@@ -44,7 +44,7 @@ Consider the following options when you are ready to contribute code.
 
 ## Using GitPod
 
-All [pull requests](https://github.com/freeCodeCamp/chapter/pulls) will have a GitPod link to allow for quickly opening an "ready-to-code" development environment for that specific issue / task. Follow the [GitPod documentation](https://www.gitpod.io/docs) to configure your account, setup an "ephemeral" workspace, and access a running application.
+All [pull requests](https://github.com/freeCodeCamp/chapter/pulls) will have a GitPod link to allow for quickly opening an "ready-to-code" development environment for that specific issue / task. Follow the [GitPod documentation](https://www.gitpod.io/docs) to configure your account, setup an "ephemeral" workspace, After your account is set, you can access a running application using [this link](https://gitpod.io/#https://github.com/freeCodeCamp/chapter).
 
 ## Using a Traditional Dev Environment
 
